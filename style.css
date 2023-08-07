@@ -18,7 +18,7 @@ body {
 .l-page {
   background-color: black;
   color: white;
-  background: url(https://camo-v3.shikimori.me/c9469db6f261a67503cd735e1bcefe5275588528?url=https%3A%2F%2Fi.ibb.co%2F3fvqmmg%2Fdes-zhu-33-223-1.jpg);
+  background: url(https://camo-v3.shikimori.me/c9469db6f261a67503cd735e1bcefe5275588528?url=https%3A%2F%2Fi.ibb.co%2F3fvqmmg%2Fdes-zhu-33-223-1.jpg) !important;
   background-position: top;
   block-size: contain;
 }
@@ -33,8 +33,6 @@ body {
   color: #fff;
   border-radius: 25px;
 }
-
-
 
 .b-stats_bar.anime .bar .first {
   background-color: rgb(247, 238, 227);
