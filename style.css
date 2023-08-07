@@ -33,3 +33,13 @@ body {
 .p-profiles .profile-head {
   background-image: url(https://camo-v3.shikimori.me/c9469db6f261a67503cd735e1bcefe5275588528?url=https%3A%2F%2Fi.ibb.co%2F3fvqmmg%2Fdes-zhu-33-223-1.jpg);
 }
+
+.b-stats_bar.anime .bar .first {
+  background-color: rgb(247, 238, 227);
+}
+.b-stats_bar.anime .bar .second {
+  background-color: rgb(118, 117, 117);
+}
+.b-stats_bar.anime .bar .third {
+  background-color: rgb(0, 0, 0);
+}
