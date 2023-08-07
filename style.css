@@ -43,3 +43,9 @@ body {
 .b-stats_bar.anime .bar .third {
   background-color: rgb(0, 0, 0);
 }
+
+.b-stats_bar.anime .bar {
+  border-radius: 5px;
+  font-size: 0;
+  line-height: 4px;
+  }
