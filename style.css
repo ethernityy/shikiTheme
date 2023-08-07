@@ -3,13 +3,19 @@ body {
   min-height: 100%;
   background-attachment: fixed;
   background-color: #2d2c2c;
-  background-image: url(https://camo-v3.shikimori.me/c9469db6f261a67503cd735e1bcefe5275588528?url=https%3A%2F%2Fi.ibb.co%2F3fvqmmg%2Fdes-zhu-33-223-1.jpg);
   block-size: cover;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
 }
 
+.profile-head {
+  background-image: url(https://camo-v3.shikimori.me/c9469db6f261a67503cd735e1bcefe5275588528?url=https%3A%2F%2Fi.ibb.co%2F3fvqmmg%2Fdes-zhu-33-223-1.jpg);
+}
+
 .profile-head .avatar img {
   border-radius: 50%;
+}
+
+.l-page {
 }
