@@ -1,9 +1,12 @@
 body {
   position: relative;
   min-height: 100%;
-  background: url(https://camo-v3.shikimori.me/c9469db6f261a67503cd735e1bcefe5275588528?url=https%3A%2F%2Fi.ibb.co%2F3fvqmmg%2Fdes-zhu-33-223-1.jpg);
-  background-position: top;
-  block-size: contain;
+  background: url(https://hips.hearstapps.com/hmg-prod/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg)
+      no-repeat fixed,
+    url(https://hips.hearstapps.com/hmg-prod/images/vibrant-pink-and-white-summer-flowering-cosmos-royalty-free-image-1653499726.jpg)
+      no-repeat fixed;
+  background-position: left, right;
+  background-size: contain;
   background-attachment: fixed;
   background-color: black;
   block-size: cover;
@@ -20,6 +23,9 @@ body {
 .l-page {
   background-color: black;
   color: white;
+  background: url(https://camo-v3.shikimori.me/c9469db6f261a67503cd735e1bcefe5275588528?url=https%3A%2F%2Fi.ibb.co%2F3fvqmmg%2Fdes-zhu-33-223-1.jpg);
+  background-position: top;
+  block-size: contain;
 }
 .l-top_menu-v2 {
   background-color: #000;
