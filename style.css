@@ -2,13 +2,13 @@ body {
   position: relative;
   min-height: 100%;
   background-attachment: fixed;
-  background-color: #2d2c2c;
+  background-color: black;
   block-size: cover;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
+  color: #fff;
 }
-
 
 .profile-head .avatar img {
   border-radius: 50%;
@@ -17,4 +17,15 @@ body {
 .l-page {
   background-color: black;
   color: white;
+}
+.l-top_menu-v2 {
+  background-color: #000;
+  color: #fff;
+}
+
+.l-top_menu-v2 .submenu {
+  background-color: #000;
+  border-color: #fff;
+  color: #fff;
+  border-radius: 25px;
 }
